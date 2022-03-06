@@ -34,4 +34,4 @@ In order to do so, we can make the following suggestions:
 
 ### Age demographic breakdown & anomalies
 1. There's a strong user base for clients born between 1980 and 1995.
-- Please note: there is an anomaly in the data that strongly suggests a number of users found it amusing to use the birth year of 1969. Only 20% of users born in 1969 are subscribers. The 3rd and 4th tab really help to visualize this anomaly. [Click here for additional visualizations] (https://public.tableau.com/views/Module14ChallengePart2/AdditionalNYCCItyBikesData?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+- Please note: there is an anomaly in the data that strongly suggests a number of users found it amusing to use the birth year of 1969. Only 20% of users born in 1969 are subscribers. The 3rd and 4th tab really help to visualize this anomaly. [Click here for additional visualizations](https://public.tableau.com/views/Module14ChallengePart2/AdditionalNYCCItyBikesData?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)

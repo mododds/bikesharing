@@ -8,9 +8,9 @@ The purpose of this analysis is to review the bike sharing program currently in 
 ## Results
 Please refer to 7 visualizations located [here:](https://public.tableau.com/shared/R5ZK5G9FZ?:display_count=n&:origin=viz_share_link)
 - Observations are made for each tab in order.  We can draw the following conclusions from the data analysed: 
-1. [Gender Distribution:](https://public.tableau.com/shared/GDYPD5N2Z?:display_count=n&:origin=viz_share_link)
+1. [Gender Distribution:](https://public.tableau.com/shared/7XKQ9XCNX?:display_count=n&:origin=viz_share_link)
 65% of the riders using the Bike sharing program in New York City identify as males.
-2. [Trip Duration:] (https://public.tableau.com/shared/27KQ25XCN?:display_count=n&:origin=viz_share_link) 
+2. [Trip Duration:](https://public.tableau.com/shared/27KQ25XCN?:display_count=n&:origin=viz_share_link) 
 Most rides taken have a duration of less than 30 minutes (with a peak around 5 minutes per ride). 
 3. [Trip Duration by Gender:](https://public.tableau.com/shared/DB2T7ZF3M?:display_count=n&:origin=viz_share_link)
 Short bike rides are a common trend for male and female users alike. 
